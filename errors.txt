@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/characters.rpy", line 5: transform statement expects a non-empty block.
+    transform standart:
+                       ^
+
+Ren'Py Version: Ren'Py 8.2.1.24030407
+Thu May  2 17:42:10 2024
