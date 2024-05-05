@@ -1,5 +1,6 @@
 #characters are defined here
 define Chen = Character("Ch'en")
+define pov = Character("[povname]")
 
 #custom transformation
 transform standart:
@@ -7,6 +8,7 @@ transform standart:
     pos (0.5, 0.7) 
     zoom 1.5
 
+#images for chen
 image Chen1 = "chen/char_010_chen_1.png"
 image chen2 = "chen/char_010_chen_2.png"
 image chen3 = "chen/char_010_chen_3.png"
