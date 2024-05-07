@@ -16,3 +16,8 @@ image chen4 = "chen/char_010_chen_4.png"
 image chen5 = "chen/char_010_chen_5.png"
 image chen6 = "chen/char_010_chen_6.png"
 image chen7 = "chen/char_010_chen_7.png"
+
+#images for swire
+
+
+#images for 
