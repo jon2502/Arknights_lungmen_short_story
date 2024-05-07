@@ -2,15 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 3: Line with id start_86e97cec appears twice. The other line is game/chapter_1.rpy:3
-
-File "game/script.rpy", line 4: Line with id start_29367918 appears twice. The other line is game/chapter_1.rpy:4
-
-File "game/script.rpy", line 12: Line with id start_038dd8ae appears twice. The other line is game/chapter_1.rpy:12
-
-File "game/script.rpy", line 13: Line with id start_579b1b0f appears twice. The other line is game/chapter_1.rpy:13
-
-File "game/script.rpy", line 15: Line with id start_2f8891ec appears twice. The other line is game/chapter_1.rpy:15
+File "game/characters.rpy", line 5: transform statement expects a non-empty block.
+    transform standart:
+                       ^
 
 Ren'Py Version: Ren'Py 8.2.1.24030407
-Tue May  7 10:19:19 2024
+Thu May  2 17:42:10 2024
